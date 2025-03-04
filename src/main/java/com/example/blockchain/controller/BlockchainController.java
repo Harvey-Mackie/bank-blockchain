@@ -1,9 +1,9 @@
-package com.example.demo.controller;
+package com.example.blockchain.controller;
 
-import com.example.demo.model.Block;
-import com.example.demo.model.Transaction;
-import com.example.demo.model.dto.TransactionRequest;
-import com.example.demo.service.Blockchain;
+import com.example.blockchain.model.Block;
+import com.example.blockchain.model.Transaction;
+import com.example.blockchain.model.dto.TransactionRequest;
+import com.example.blockchain.service.Blockchain;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

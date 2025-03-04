@@ -1,7 +1,7 @@
-package com.example.demo.service;
+package com.example.blockchain.service;
 
-import com.example.demo.model.Block;
-import com.example.demo.model.Transaction;
+import com.example.blockchain.model.Block;
+import com.example.blockchain.model.Transaction;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;
